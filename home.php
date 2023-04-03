@@ -90,7 +90,7 @@ if ((!isset($_SESSION['email']) == true) and (!isset($_SESSION['senha']) == true
                         </a>
                      </div>
                   </div>
-                  <img src="https://jrcor.com.br/blog/wp-content/uploads/2020/03/quadras-poliesportivas-5.jpg" alt="sitting place" class="w-full mt-8 md:mt-6 hidden sm:block" />
+                  <img src="./assets/nba.jpg" alt="sitting place" class="w-full mt-8 md:mt-6 hidden sm:block" />
                   <img class="w-full mt-4 sm:hidden" src="https://jrcor.com.br/blog/wp-content/uploads/2020/03/quadras-poliesportivas-5.jpg" alt="sitting place" />
                </div>
             </div>
@@ -107,7 +107,7 @@ if ((!isset($_SESSION['email']) == true) and (!isset($_SESSION['senha']) == true
                         </a>
                      </div>
                   </div>
-                  <img src="https://jrcor.com.br/blog/wp-content/uploads/2020/03/quadras-poliesportivas-5.jpg" alt="sitting place" class="w-full sm:block hidden" />
+                  <img src="./assets/chicago.jpg" alt="sitting place" class="w-full sm:block hidden" />
                   <img class="w-full sm:hidden" src="https://i.ibb.co/dpXStJk/Rectangle-29.png" alt="sitting place" />
                </div>
                <div class="sm:flex items-center justify-between xl:gap-x-8 gap-x-6 md:mt-6 mt-4">
